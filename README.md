@@ -1,2 +1,2 @@
-# self-contained-ui
-Running one ASP.NET Core MVC site inside another
+# Self-Contained UI - Running one ASP.NET Core MVC site inside another
+This repository contains the sample project described in [this blog post](https://www.atlascode.com/self-contained-ui-running-one-asp-net-core-mvc-site-inside-another/). It shows how to reference one ASP.Net Core MVC site within another.
